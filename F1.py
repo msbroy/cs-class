@@ -1,4 +1,3 @@
-# Decision Making Statements:
 '''
 Class 1: 19/01/2020 - Biprodeep Roy - Python Basics
 
