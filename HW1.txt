@@ -1,0 +1,22 @@
+All the marks of 5 students are given for these subjects in the file students_marks.txt. Note, each data is separated by a " - ". Here are the things you need to do:
+
+1. Calculate the Average Marks of Each person for all subjects and print them.
+
+Sample Input: John 55 45	56	87	21	52	89	65
+Sample Output: John 58.75
+
+
+2. Find the percentage obtained by each students and print them by the formula: (Total Marks Obtained in all subjects by the Student)/(Total Marks In which Exam was given)x100 
+
+
+3. Calculate the total average marks obtained by all male students and average marks obtained by all female students. 
+
+Example:
+
+M
+60%
+
+F
+40%
+
+4. Print the ages of each students along with their Names. 
